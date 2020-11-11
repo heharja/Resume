@@ -1,1 +1,2 @@
-# Resume
+hi sparta.
+linux
